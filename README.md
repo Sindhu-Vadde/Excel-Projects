@@ -162,7 +162,7 @@ Citation: Knaus et al. (1995). The SUPPORT Prognostic Model. Annals of Internal 
 ---
 
 ## 👤 Author
-**Your Name**
+
 - LinkedIn: https://www.linkedin.com/in/sindhoori-vadde-aa9b1a294/
 - GitHub: https://github.com/Sindhu-Vadde/Excel-Projects  
 
